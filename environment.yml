@@ -1,0 +1,5 @@
+name: EnvLabs
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\Admin\anaconda3\envs\EnvLabs
