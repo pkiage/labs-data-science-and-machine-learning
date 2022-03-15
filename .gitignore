@@ -2,6 +2,7 @@
 src/data
 docs
 models
+knn_features-lab220313
 
 # Virtual environment
 venv
