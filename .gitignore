@@ -2,7 +2,7 @@
 src/data
 docs
 models
-knn_features-lab220313
+knn_features-lab220313.ipynb
 
 # Virtual environment
 venv
@@ -13,6 +13,13 @@ __pycache__/
 
 # C extensions
 *.so
+
+# Cache and similar
+catboost_info
+learning_rate_0.05
+learning_rate_0.5
+default
+catboost_model.bin
 
 # Distribution / packaging
 .Python
